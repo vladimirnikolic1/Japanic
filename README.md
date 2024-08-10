@@ -1,0 +1,2 @@
+# Japanic
+Add Japanic
